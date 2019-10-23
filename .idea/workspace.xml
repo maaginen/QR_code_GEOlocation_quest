@@ -11,7 +11,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08520243-64ae-4f12-8ba2-c19a0de28a0a" name="Default Changelist" comment="" />
+    <list default="true" id="08520243-64ae-4f12-8ba2-c19a0de28a0a" name="Default Changelist" comment="Users data(email, pw, location) is stored into Firebase Real-Time Database." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,24 +75,29 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Login_App" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Login_App" type="b2602c69:ProjectViewProjectNode" />
               <item name="Login_App" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Login_App" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Login_App" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571788886315</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Users data(email, pw, location) is stored into Firebase Real-Time Database.">
+      <created>1571789782701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571789782701</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -283,18 +295,18 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info active="true" anchor="bottom" id="SVN Repositories" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49626866" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4989339" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49626866" weight="0.32936078" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.32936078" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -380,12 +392,12 @@
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/bcit/protsenko/login_app/UserLocation.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/bcit/protsenko/login_app/User.java">
