@@ -628,6 +628,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\src\\main\\res\\drawable\\open.png"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\f8ccfb448ba3545203b2c9319e236e39\\appcompat-1.1.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -982,6 +986,10 @@
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\56b6cdfbd80af409835a31a4470c49f0\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\src\\main\\res\\drawable\\box.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Login_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
